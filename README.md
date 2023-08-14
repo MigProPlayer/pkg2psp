@@ -1,4 +1,4 @@
-# pkg2zip
+# pkg2psp
 
 [![Travis CI Build Status][img_travis]][travis] [![AppVeyor Build Status][img_appveyor]][appveyor] [![Downloads][img_downloads]][downloads] [![Release][img_latest]][latest] [![License][img_license]][license]
 
@@ -111,16 +111,16 @@ This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
-[travis]: https://travis-ci.org/mmozeiko/pkg2zip/
-[appveyor]: https://ci.appveyor.com/project/mmozeiko/pkg2zip/
-[downloads]: https://github.com/mmozeiko/pkg2zip/releases
-[latest]: https://github.com/mmozeiko/pkg2zip/releases/latest
-[license]: https://github.com/mmozeiko/pkg2zip/blob/master/LICENSE
-[img_travis]: https://api.travis-ci.org/mmozeiko/pkg2zip.svg?branch=master
+[travis]: https://travis-ci.org/MigProPlayer/pkg2psp/
+[appveyor]: https://ci.appveyor.com/project/MigProPlayer/pkg2psp/
+[downloads]: https://github.com/MigProPlayer/pkg2psp/releases
+[latest]: https://github.com/MigProPlayer/pkg2psp/releases/latest
+[license]: https://github.com/MigProPlayer/pkg2psp/blob/master/LICENSE
+[img_travis]: https://api.travis-ci.org/MigProPlayer/pkg2psp.svg?branch=master
 [img_appveyor]: https://ci.appveyor.com/api/projects/status/xmkl6509ahlp9b7k/branch/master?svg=true
-[img_downloads]: https://img.shields.io/github/downloads/mmozeiko/pkg2zip/total.svg?maxAge=3600
-[img_latest]: https://img.shields.io/github/release/mmozeiko/pkg2zip.svg?maxAge=3600
-[img_license]: https://img.shields.io/github/license/mmozeiko/pkg2zip.svg?maxAge=2592000
+[img_downloads]: https://img.shields.io/github/downloads/MigProPlayer/pkg2psp/total.svg?maxAge=3600
+[img_latest]: https://img.shields.io/github/release/MigProPlayer/pkg2psp.svg?maxAge=3600
+[img_license]: https://img.shields.io/github/license/MigProPlayer/pkg2psp.svg?maxAge=2592000
 [Adrenaline]: https://github.com/TheOfficialFloW/Adrenaline
 [NoNpDrm]: https://github.com/TheOfficialFloW/NoNpDrm
 [NoPsmDrm]: https://github.com/frangarcj/NoPsmDrm
